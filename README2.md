@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/@zgulbarge" target="blank"><img src="https://img.shields.io/twitter/follow/@zgulbarge?logo=twitter&style=for-the-badge" alt="@zgulbarge" /></a> </p>
 
-- 🔭 I’m currently working on [coming soon...](coming soon...)
+- 🔭 I’m currently working on building exciting projects that leverage my MERN stack expertise for creating robust web applications.
 
 - 🌱 I’m currently learning **📊 Data Science tools and libraries like Pandas, NumPy, and Matplotlib for in-depth data analysis.**
 
-- 👯 I’m looking to collaborate on [coming soon...](coming soon...)
+- 👯 I’m looking to collaborate on innovative tech projects that challenge the status quo and push the boundaries of what's possible.
 
-- 🤝 I’m looking for help with [coming soon...](coming soon...)
+- 🤝 I’m looking for help with enhancing my knowledge and skills in the field of Data Science, especially in machine learning and artificial intelligence.
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available on my personal website **(https://zubair-gulbarge.github.io/Portfolio/)** where you can explore detailed information about my work, including code repositories and project descriptions.
 
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+- 📝 I regularly write articles on various tech topics, including my experiences in Full-Stack Development with MERN and my journey into the world of Data Science. You can find them on my personal website **(https://zubair-gulbarge.github.io/Portfolio/)**.
 
 - 💬 Ask me about **MERN, Data Science**
 
 - 📫 How to reach me **gulbargezubair@gmail.com**
 
-- 📄 Know about my experiences [coming soon...](coming soon...)
+- 📄 To know more about my experiences and professional background, stay tuned for updates on my personal website **(https://zubair-gulbarge.github.io/Portfolio/).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
